@@ -1,0 +1,88 @@
+{
+  "assetsByChunkName": {
+    "path---products-gud": [
+      "path---products-gud-4f9f1efae35d6d269235.js",
+      "path---products-gud-4f9f1efae35d6d269235.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-6c638fd2dc4470ab2c95.js",
+      "component---src-pages-index-js-6c638fd2dc4470ab2c95.js.map"
+    ],
+    "path---products-calfeed-plus": [
+      "path---products-calfeed-plus-bbd644308eea51954fa8.js",
+      "path---products-calfeed-plus-bbd644308eea51954fa8.js.map"
+    ],
+    "path---": [
+      "path----b21004312103257e24da.js",
+      "path----b21004312103257e24da.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-3f558bea5a4089d5de8f.js",
+      "component---src-pages-contact-js-3f558bea5a4089d5de8f.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-e00e3c1d8bed5c9b5fd6.js",
+      "component---src-layouts-index-js-e00e3c1d8bed5c9b5fd6.js.map"
+    ],
+    "path---products-libmin-gl": [
+      "path---products-libmin-gl-2502e1694760a7da0ecc.js",
+      "path---products-libmin-gl-2502e1694760a7da0ecc.js.map"
+    ],
+    "component---src-templates-product-js": [
+      "component---src-templates-product-js-63f9a9167c561ddc5c9f.js",
+      "component---src-templates-product-js-63f9a9167c561ddc5c9f.js.map"
+    ],
+    "path---index": [
+      "path---index-d6f051d2202a3a098199.js",
+      "path---index-d6f051d2202a3a098199.js.map"
+    ],
+    "path---catalog": [
+      "path---catalog-ce2c9fc2ab800c02a282.js",
+      "path---catalog-ce2c9fc2ab800c02a282.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-3e6b874957b7b580cbaf.js",
+      "component---src-pages-404-js-3e6b874957b7b580cbaf.js.map"
+    ],
+    "commons": [
+      "commons-c397e2aec0df7bc6af94.js",
+      "build-js-styles.css",
+      "commons-c397e2aec0df7bc6af94.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---products-mf-gel": [
+      "path---products-mf-gel-af64416532b9eb83f3fe.js",
+      "path---products-mf-gel-af64416532b9eb83f3fe.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---products-onroxiya": [
+      "path---products-onroxiya-ba0a6fa401e5b9e59f54.js",
+      "path---products-onroxiya-ba0a6fa401e5b9e59f54.js.map"
+    ],
+    "app": [
+      "app-cfe43831711cf97d288c.js",
+      "build-js-styles.css",
+      "app-cfe43831711cf97d288c.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---products-onroxiya-forte": [
+      "path---products-onroxiya-forte-6781dc0e608c260bdab0.js",
+      "path---products-onroxiya-forte-6781dc0e608c260bdab0.js.map"
+    ],
+    "component---src-pages-catalog-js": [
+      "component---src-pages-catalog-js-445b127308e9dc0bd858.js",
+      "component---src-pages-catalog-js-445b127308e9dc0bd858.js.map"
+    ]
+  }
+}
